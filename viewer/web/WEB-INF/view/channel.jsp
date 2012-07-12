@@ -26,7 +26,7 @@
                 <td><form:input path="url" /></td>
                 <td><form:checkbox path="enabled" /></td>
 
-                <td><input type="submit" value="Creaza"/></td>
+                <td><input type="submit" value="New "/></td>
             </tr>
         </form:form>
 
@@ -45,7 +45,7 @@
                            id="cb_enabled"
                            value='true' <c:if test="${channel.isEnabled()}">checked</c:if>/>
                     </td>
-                    <td><input type="submit" value="Salveaza"/></td>
+                    <td><input type="submit" value="Ssve"/></td>
                 </tr>
             </form>
         </c:forEach>

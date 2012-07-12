@@ -29,7 +29,7 @@ public class Channel {
         model.addAttribute("channels", channels);
         model.addAttribute("urlEncoder", urlEncoder);
 
-        model.addAttribute("channel", new ChannelDescription("ss", "rr", false));
+        model.addAttribute("channel", new ChannelDescription("", "", false));
         return "channel";
     }
 
