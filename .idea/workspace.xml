@@ -2,140 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a4672ff-9e6f-49b0-939f-8789a5ee108e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/asm-all-3.3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cglib-2.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/commons-logging/commons-logging-1.1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/commons-logging/commons-logging-adapters-1.1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/commons-logging/commons-logging-api-1.1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hamcrest-all-1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hibernate-release-4.1.3/antlr-2.7.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hibernate-release-4.1.3/dom4j-1.6.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hibernate-release-4.1.3/hibernate-commons-annotations-4.0.1.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hibernate-release-4.1.3/hibernate-core-4.1.3.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hibernate-release-4.1.3/hibernate-jpa-2.0-api-1.0.1.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hibernate-release-4.1.3/javassist-3.15.0-GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hibernate-release-4.1.3/jboss-logging-3.1.0.GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hibernate-release-4.1.3/jboss-transaction-api_1.1_spec-1.0.0.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jakarta-taglibs-standard-1.1.2/jstl.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jakarta-taglibs-standard-1.1.2/standard.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.20-bin.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-security-3.1.0.RELEASE/spring-security-acl-3.1.0.RELEASE-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-security-3.1.0.RELEASE/spring-security-acl-3.1.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-security-3.1.0.RELEASE/spring-security-aspects-3.1.0.RELEASE-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-security-3.1.0.RELEASE/spring-security-aspects-3.1.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-security-3.1.0.RELEASE/spring-security-cas-3.1.0.RELEASE-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-security-3.1.0.RELEASE/spring-security-cas-3.1.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-security-3.1.0.RELEASE/spring-security-config-3.1.0.RELEASE-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-security-3.1.0.RELEASE/spring-security-config-3.1.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-security-3.1.0.RELEASE/spring-security-core-3.1.0.RELEASE-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-security-3.1.0.RELEASE/spring-security-core-3.1.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-security-3.1.0.RELEASE/spring-security-crypto-3.1.0.RELEASE-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-security-3.1.0.RELEASE/spring-security-crypto-3.1.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-security-3.1.0.RELEASE/spring-security-ldap-3.1.0.RELEASE-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-security-3.1.0.RELEASE/spring-security-ldap-3.1.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-security-3.1.0.RELEASE/spring-security-openid-3.1.0.RELEASE-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-security-3.1.0.RELEASE/spring-security-openid-3.1.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-security-3.1.0.RELEASE/spring-security-remoting-3.1.0.RELEASE-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-security-3.1.0.RELEASE/spring-security-remoting-3.1.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-security-3.1.0.RELEASE/spring-security-samples-contacts-3.1.0.RELEASE.war" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-security-3.1.0.RELEASE/spring-security-samples-tutorial-3.1.0.RELEASE.war" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-security-3.1.0.RELEASE/spring-security-taglibs-3.1.0.RELEASE-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-security-3.1.0.RELEASE/spring-security-taglibs-3.1.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-security-3.1.0.RELEASE/spring-security-web-3.1.0.RELEASE-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-security-3.1.0.RELEASE/spring-security-web-3.1.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring/org.springframework.aop-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring/org.springframework.asm-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring/org.springframework.aspects-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring/org.springframework.beans-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring/org.springframework.context-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring/org.springframework.context.support-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring/org.springframework.core-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring/org.springframework.expression-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring/org.springframework.instrument-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring/org.springframework.instrument.tomcat-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring/org.springframework.jdbc-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring/org.springframework.jms-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring/org.springframework.orm-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring/org.springframework.oxm-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring/org.springframework.test-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring/org.springframework.transaction-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring/org.springframework.web-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring/org.springframework.web.portlet-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring/org.springframework.web.servlet-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring/org.springframework.web.struts-3.1.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spymemcached-2.7.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tomcat/servlet-api.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/daemon_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/viewer.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/viewer_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cacheStore/cacheStore.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cacheStore/src/com/g4share/MemCachedConnectionInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cacheStore/src/com/g4share/MemCachedConnector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cacheStore/src/com/g4share/MemCachedStore.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cacheStore/src/com/g4share/RssStore.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cacheStore/tests/com/g4share/MemCachedStoreTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cacheStore/tests/com/g4share/RssStoreTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/common.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/com/g4share/common/Constants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/com/g4share/common/download/UrlDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/com/g4share/common/download/UrlDownloaderFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/com/g4share/common/except/NoTagStoreSpecifiedException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/com/g4share/common/except/SaxInterruptedException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/com/g4share/common/except/WrongPropertyException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/com/g4share/common/log/ConsoleLogger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/com/g4share/common/log/FileLogger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/com/g4share/common/log/FileLoggerProperties.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/com/g4share/common/log/LogLevel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/com/g4share/common/log/Logger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/com/g4share/common/log/LoggerProperties.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/com/g4share/common/newsItem/ChannelCategory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/com/g4share/common/newsItem/ChannelDescription.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/com/g4share/common/newsItem/ChannelInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/com/g4share/common/newsItem/ChannelItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/com/g4share/common/newsItem/RssChannel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/com/g4share/common/xml/XmlModelManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/com/g4share/common/xml/XmlReader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/com/g4share/common/xml/XmlTag.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/com/g4share/common/xml/XmlTagStore.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daemon/daemon.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daemon/src/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daemon/src/com/g4share/daemon/AppConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daemon/src/com/g4share/daemon/DownloadProcessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daemon/src/com/g4share/daemon/Processor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daemon/src/com/g4share/daemon/Runner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daemon/src/conf/daemon.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daemon/src/conf/db.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/run.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring/org.springframework.spring-library-3.1.1.RELEASE.libd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loader/loader.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loader/src/com/g4share/loader/NewsDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loader/src/com/g4share/loader/Worker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loader/src/com/g4share/loader/except/NoRssTypeSpecified.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loader/src/com/g4share/loader/rss/AbstractRssModelManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loader/src/com/g4share/loader/rss/ChannelCollection.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loader/src/com/g4share/loader/rss/ChannelProcessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loader/src/com/g4share/loader/rss/Rss20ModelManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loader/src/com/g4share/loader/rss/Rss20Tag.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loader/src/com/g4share/loader/rss/RssReaderFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loader/src/com/g4share/loader/rss/RssVersion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loader/src/com/g4share/loader/rss/RssVersionModelManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loader/src/com/g4share/loader/rss/XmlModelManagerFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loader/tests/com/g4share/CommonTestMethods.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loader/tests/com/g4share/common/xml/FakedTag.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loader/tests/com/g4share/common/xml/XmlReaderTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loader/tests/com/g4share/loader/WorkerTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loader/tests/com/g4share/loader/rss/RssReaderTest.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/common/src/com/g4share/common/NewsItem/ChannelCategory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/common/src/com/g4share/common/NewsItem/ChannelDescription.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/common/src/com/g4share/common/NewsItem/ChannelInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/common/src/com/g4share/common/NewsItem/ChannelItem.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/common/src/com/g4share/common/NewsItem/RssChannel.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/common/src/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daemon/src/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/daemon/src/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daemon/src/conf/db.properties" afterPath="$PROJECT_DIR$/daemon/src/conf/db.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/run.sql" afterPath="$PROJECT_DIR$/database/run.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/persistentStore/src/com/g4share/persistentStore/service/ConfigReader.java" afterPath="$PROJECT_DIR$/persistentStore/src/com/g4share/persistentStore/service/ConfigReader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viewer/src/db.properties" afterPath="$PROJECT_DIR$/viewer/src/db.properties" />
     </list>
     <ignored path="jNews.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -146,6 +24,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/jNews$All_in_cacheStore.coverage" NAME="All in cacheStore Coverage Results" MODIFIED="1342125292821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -193,31 +74,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/viewer/web/WEB-INF/view/home.jsp">
+      <file leaf-file-name="ChannelProcessor.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/loader/src/com/g4share/loader/rss/ChannelProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="35.192307">
+            <state line="4" column="34" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="accessDenied.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/viewer/web/accessDenied.jsp">
+      <file leaf-file-name="ChannelDescription.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/src/com/g4share/common/newsItem/ChannelDescription.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="0" column="35" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MemCachedConnectionInfo.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cacheStore/src/com/g4share/MemCachedConnectionInfo.java">
+      <file leaf-file-name="ChannelInfo.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/src/com/g4share/common/newsItem/ChannelInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="13" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="0" column="35" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChannelItem.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/src/com/g4share/common/newsItem/ChannelItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="35" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RssChannel.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/common/src/com/g4share/common/newsItem/RssChannel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="35" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rss20ModelManager.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/loader/src/com/g4share/loader/rss/Rss20ModelManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="13" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewsDownloader.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/loader/src/com/g4share/loader/NewsDownloader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="13" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -225,70 +140,26 @@
       <file leaf-file-name="RssLocation.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/persistentStore/src/com/g4share/persistentStore/pojo/RssLocation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="24" selection-start="238" selection-end="242" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RssStoreTest.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cacheStore/tests/com/g4share/RssStoreTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="5" selection-start="1334" selection-end="1334" vertical-scroll-proportion="1.2070895">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="db.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/viewer/src/db.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="63" selection-start="165" selection-end="172" vertical-scroll-proportion="0.0">
+            <state line="10" column="13" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="viewer.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/viewer/src/viewer.properties">
+      <file leaf-file-name="ConfigReader.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/persistentStore/src/com/g4share/persistentStore/service/ConfigReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="22" column="101" selection-start="754" selection-end="754" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RssLocationConverter.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/persistentStore/src/com/g4share/persistentStore/pojo/RssLocationConverter.java">
+      <file leaf-file-name="ChannelCategory.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/src/com/g4share/common/newsItem/ChannelCategory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
+            <state line="0" column="35" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MemCachedConnector.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cacheStore/src/com/g4share/MemCachedConnector.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="13" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MemCachedStoreTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cacheStore/tests/com/g4share/MemCachedStoreTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="56" selection-start="1039" selection-end="1047" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -306,30 +177,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/loader/src/com/g4share/loader/rss/Rss20ModelManager.java" />
+        <option value="$PROJECT_DIR$/loader/src/com/g4share/loader/Worker.java" />
+        <option value="$PROJECT_DIR$/loader/tests/com/g4share/common/xml/XmlReaderTest.java" />
+        <option value="$PROJECT_DIR$/cacheStore/src/com/g4share/RssStore.java" />
+        <option value="$PROJECT_DIR$/cacheStore/tests/com/g4share/MemCachedStoreTest.java" />
+        <option value="$PROJECT_DIR$/cacheStore/tests/com/g4share/RssStoreTest.java" />
+        <option value="$PROJECT_DIR$/daemon/src/com/g4share/daemon/DownloadProcessor.java" />
         <option value="$PROJECT_DIR$/viewer/src/com/g4share/viewer/mvc/controller/Channel.java" />
         <option value="$PROJECT_DIR$/viewer/src/com/g4share/viewer/mvc/controller/Home.java" />
-        <option value="$PROJECT_DIR$/viewer/src/com/g4share/viewer/mvc/controller/Security.java" />
-        <option value="$PROJECT_DIR$/viewer/src/com/g4share/viewer/JspFormatter.java" />
-        <option value="$PROJECT_DIR$/common/src/com/g4share/common/xml/XmlReader.java" />
-        <option value="$PROJECT_DIR$/loader/src/com/g4share/loader/rss/RssReaderFactory.java" />
-        <option value="$PROJECT_DIR$/daemon/src/com/g4share/daemon/DownloadProcessor.java" />
-        <option value="$PROJECT_DIR$/loader/src/com/g4share/loader/rss/ChannelProcessor.java" />
-        <option value="$PROJECT_DIR$/loader/src/com/g4share/loader/rss/RssVersionModelManager.java" />
-        <option value="$PROJECT_DIR$/loader/src/com/g4share/loader/rss/XmlModelManagerFactory.java" />
-        <option value="$PROJECT_DIR$/loader/tests/com/g4share/common/xml/XmlReaderTest.java" />
-        <option value="$PROJECT_DIR$/persistentStore/src/com/g4share/persistentStore/POJO/RssLocationConverter.java" />
-        <option value="$PROJECT_DIR$/viewer/src/com/g4share/viewer/mvc/configuration/MvcConfig.java" />
-        <option value="$PROJECT_DIR$/viewer/src/com/g4share/viewer/UrlEncoder.java" />
-        <option value="$PROJECT_DIR$/persistentStore/src/com/g4share/persistentStore/pojo/RssLocation.java" />
-        <option value="$PROJECT_DIR$/cacheStore/tests/com/g4share/RssStoreTest.java" />
+        <option value="$PROJECT_DIR$/persistentStore/src/com/g4share/persistentStore/service/ConfigReader.java" />
+        <option value="$PROJECT_DIR$/common/src/com/g4share/common/NewsItem/ChannelCategory.java" />
+        <option value="$PROJECT_DIR$/common/src/com/g4share/common/NewsItem/ChannelDescription.java" />
+        <option value="$PROJECT_DIR$/common/src/com/g4share/common/NewsItem/ChannelInfo.java" />
+        <option value="$PROJECT_DIR$/common/src/com/g4share/common/NewsItem/ChannelItem.java" />
+        <option value="$PROJECT_DIR$/common/src/com/g4share/common/NewsItem/RssChannel.java" />
+        <option value="$PROJECT_DIR$/common/src/com/g4share/common/newsItem/RssChannel.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1696" />
-    <option name="height" value="1026" />
+    <option name="x" value="64" />
+    <option name="y" value="-4" />
+    <option name="width" value="1617" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -345,7 +216,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="PackagesPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -786,6 +657,10 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="META-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -844,6 +719,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="META-INF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -906,6 +785,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="newsItem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jNews" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="log" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1001,6 +902,16 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -1009,14 +920,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
           <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jNews" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daemon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jNews" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jNews" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.g4share.common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jNews" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cacheStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -1029,6 +974,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -1039,13 +985,83 @@
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.g4share.persistentStore.Service" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.All in persistentStore">
+    <configuration default="false" name="All in cacheStore" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="cacheStore" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Cover" />
+      <ConfigurationWrapper RunnerId="Cover" />
+      <method />
+    </configuration>
+    <configuration default="false" name="All in loader" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="loader" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="All in persistentStore" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="persistentStore" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -1166,7 +1182,11 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <list size="0" />
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.All in cacheStore" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.All in loader" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.All in persistentStore" />
+    </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -1197,16 +1217,22 @@
       <created>1342109083273</created>
       <updated>1342109083273</updated>
     </task>
+    <task id="LOCAL-00001" summary="fixed package name">
+      <created>1342129579441</created>
+      <updated>1342129579441</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="0" />
+    <frame x="64" y="-4" width="1617" height="1055" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32964602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32964602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1214,18 +1240,18 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32853982" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24938725" sideWeight="0.6709007" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24888322" sideWeight="0.67146015" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938644" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3299298" sideWeight="0.670354" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1266,7 +1292,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed package name" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1279,6 +1305,7 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="fixed package name" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1288,133 +1315,117 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/viewer/src/com/g4share/viewer/mvc/controller/Home.java">
+    <entry file="file://$PROJECT_DIR$/daemon/src/com/g4share/daemon/DownloadProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="13" selection-start="954" selection-end="954" vertical-scroll-proportion="0.0">
+        <state line="59" column="12" selection-start="1939" selection-end="1939" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/viewer/src/com/g4share/viewer/mvc/controller/Security.java">
+    <entry file="file://$PROJECT_DIR$/daemon/src/com/g4share/daemon/Processor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/viewer/src/com/g4share/viewer/JspFormatter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/viewer/src/com/g4share/viewer/UrlEncoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="3" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/viewer/web/css/home.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="5" column="17" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/viewer/web/WEB-INF/view/channel.jsp">
+    <entry file="file://$PROJECT_DIR$/daemon/src/com/g4share/daemon/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="19.5">
+        <state line="7" column="13" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/viewer/web/WEB-INF/view/home.jsp">
+    <entry file="file://$PROJECT_DIR$/loader/src/com/g4share/loader/except/NoRssTypeSpecified.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="35.192307">
+        <state line="5" column="13" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/viewer/web/accessDenied.jsp">
+    <entry file="file://$PROJECT_DIR$/loader/src/com/g4share/loader/rss/AbstractRssModelManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="12" column="22" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cacheStore/src/com/g4share/MemCachedConnector.java">
+    <entry file="file://$PROJECT_DIR$/loader/src/com/g4share/loader/rss/ChannelCollection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cacheStore/src/com/g4share/MemCachedConnectionInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="13" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/persistentStore/src/com/g4share/persistentStore/pojo/RssLocationConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
+        <state line="9" column="13" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/viewer/src/db.properties">
+    <entry file="file://$PROJECT_DIR$/loader/src/com/g4share/loader/rss/Rss20ModelManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="63" selection-start="165" selection-end="172" vertical-scroll-proportion="0.0">
+        <state line="11" column="13" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/viewer/src/viewer.properties">
+    <entry file="file://$PROJECT_DIR$/loader/src/com/g4share/loader/NewsDownloader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="11" column="13" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cacheStore/tests/com/g4share/MemCachedStoreTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="56" selection-start="1039" selection-end="1047" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/persistentStore/src/com/g4share/persistentStore/pojo/RssLocation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="24" selection-start="238" selection-end="242" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="10" column="13" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cacheStore/tests/com/g4share/RssStoreTest.java">
+    <entry file="file://$PROJECT_DIR$/persistentStore/src/com/g4share/persistentStore/service/ConfigReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="5" selection-start="1334" selection-end="1334" vertical-scroll-proportion="1.2070895">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="22" column="101" selection-start="754" selection-end="754" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loader/src/com/g4share/loader/rss/ChannelProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="34" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/com/g4share/common/newsItem/ChannelCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="35" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/com/g4share/common/newsItem/ChannelDescription.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="35" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/com/g4share/common/newsItem/ChannelInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="35" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/com/g4share/common/newsItem/ChannelItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="35" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/com/g4share/common/newsItem/RssChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="35" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1472,7 +1483,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>persistentStore</last-edited>
+          <last-edited>viewer</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

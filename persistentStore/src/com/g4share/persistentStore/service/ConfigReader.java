@@ -55,7 +55,7 @@ public interface ConfigReader {
             lines.put("hibernate.connection.driver_class","com.mysql.jdbc.Driver");
             lines.put("hibernate.connection.url","jdbc:mysql://192.168.1.10:3306/jNewsDB");
             lines.put("hibernate.connection.username","gm");
-            lines.put("hibernate.connection.password","pWd");
+            lines.put("hibernate.connection.password","gmW");
             lines.put("hibernate.connection.pool_size","1");
             return lines;
         }
