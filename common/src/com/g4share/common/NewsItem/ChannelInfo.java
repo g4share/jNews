@@ -1,4 +1,4 @@
-package com.g4share.common.newsItem;
+package com.g4share.common.NewsItem;
 
 import java.io.Serializable;
 import java.util.Date;
