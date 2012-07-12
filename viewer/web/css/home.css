@@ -1,0 +1,56 @@
+a.src {
+    text-decoration: none;
+    text-transform: none;
+}
+
+.block{
+    border: 1px white solid;
+    font-family: 'Lucida Grande',sans-serif;
+    font-size: 13px;
+    line-height: 1.5em;
+    text-align: left;
+    width: 700px;
+}
+
+a.link {
+    color: #000000;
+}
+
+#newsDate{
+    width: 100px;
+}
+
+.categories{
+    margin-top: 20px;
+    margin-left: 40px;
+    font-size: 15px;
+}
+
+.blockFloatLeft{
+    float: left;
+    border: 1px white solid;
+    padding-right: 5px;
+    text-align: right;
+}
+
+.blockAlignLeft{
+    text-align: right;
+    margin-left: 0px;
+}
+
+.site {
+    color: green;
+    font-size: 11px;
+}
+
+.menu{
+    color: green;
+    font-size: 15px;
+}
+
+
+
+.blockLogin{
+    margin-top: 20px;
+    margin-left: 40px;
+}
